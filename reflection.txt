@@ -1,1 +1,12 @@
-How was using the terminal different from click through folders
+1.What is the purpose of a shell?
+A shell script helps automate by bundling repetitive commands that would otherwise have to be typed as single commands into one command. Tasks such as (i) pwd-printing the current working directory, 
+(ii) ls-list the files and folders in the directory, (iii) cd-move into a directory and (iv) cd .. - exist the directory 
+
+
+2. What did you learn by running shell commands?
+By running the shell commands
+
+
+
+3.How was using the terminal different from clicking through folders?
+The terminal 
